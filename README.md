@@ -1,5 +1,6 @@
 # nvim-dotfiles
 
+
 Personal Neovim IDE setup for C++, Java, and MERN stack development.
 
 ## ✨ Features
